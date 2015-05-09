@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS dataarchtech;
+CREATE DATABASE dataarchtech CHARACTER SET utf8mb4;
