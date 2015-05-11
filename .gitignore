@@ -2,3 +2,5 @@
 .idea/*
 
 data-arch-tech.iml
+
+node_modules/*
